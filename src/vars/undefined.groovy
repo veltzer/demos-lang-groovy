@@ -9,7 +9,7 @@
 */
 
 try {
-	print x
+	println x
 } catch(MissingPropertyException e) {
 	println 'yes, got an exception '+e
 }

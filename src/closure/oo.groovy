@@ -23,6 +23,7 @@ def Person(name,age) {
 
 def p1=Person('Frodo',73)
 def p2=Person('Bilbo',111)
+println p1.getName()
 println p1['getName']()
 println p2['getName']()
 p1['setName']('Gandalf')

@@ -13,6 +13,9 @@ class Plane {
 }
 
 Car c=new Car()
+println c.getClass()
 Plane p=new Plane()
 
+println "I am here"
 c=p
+println c.getClass()

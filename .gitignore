@@ -1,4 +1,7 @@
 # Compiled class file
+/.pydmt/
+__pycache__/
+*.py[oc]
 *.class
 
 *.stamp

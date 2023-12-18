@@ -1,16 +1,14 @@
 #!/usr/bin/groovy
 
-def pipeline(code) {
+def gal_pipeline(code) {
 	// println code.dump()
+	println "before the code"
 	code()
+	println "after the code"
 }
 
-pipeline {
-	println "Hello"
+gal_pipeline {
 	for(x in 1..10) {
 		println x
-	}
-	do_something {
-		println "foo"
 	}
 }

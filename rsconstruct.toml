@@ -22,13 +22,13 @@ src_dirs = ["tera.templates"]
 
 [processor.rumdl]
 src_dirs = ["src", "exercises"]
+src_files = ["README.md"]
 
 [processor.zspell]
 src_dirs = ["src", "exercises"]
 
 [processor.shellcheck]
 src_dirs = ["src", "exercises", "config"]
-args = ["--severity=error", "--shell=bash"]
 
 # ─── lua ─────────────────────────────────────────────────────────────────────
 

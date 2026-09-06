@@ -16,7 +16,7 @@
   The function uses the function 'f' to reduce the entire list to one number
   by applying it over and over.
 
-    example: if the list is [1,2,3,4,5] and the function is
-    def add(a,b) { return a+b }
-    then this function will add all elements in the list
-    and come up with the answer: 15
+  example: if the list is [1,2,3,4,5] and the function is
+  def add(a,b) { return a+b }
+  then this function will add all elements in the list
+  and come up with the answer: 15

@@ -1,11 +1,11 @@
 <!-- This file is generated. Do not edit it by hand: your changes will be
      lost on the next build. Edit the template it is rendered from, or the
      values that template reads, and build again. -->
-# *demos-groovy* project by Mark Veltzer
+# *demos-lang-groovy* project by Mark Veltzer
 
 description: Demos for the groovy programming language
 
-project website: https://veltzer.github.io/demos-groovy
+project website: https://veltzer.github.io/demos-lang-groovy
 
 author: Mark Veltzer
 
@@ -15,11 +15,11 @@ version: 0.0.1
 
 ## github
 
-![License](https://img.shields.io/github/license/veltzer/demos-groovy)
+![License](https://img.shields.io/github/license/veltzer/demos-lang-groovy)
 
 ## build
 
-![build](https://github.com/veltzer/demos-groovy/workflows/build/badge.svg)
+![build](https://github.com/veltzer/demos-lang-groovy/workflows/build/badge.svg)
 ## Number of examples
 
 Currently there are 79 examples in this repo.

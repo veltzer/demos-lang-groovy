@@ -5,7 +5,7 @@
 
 description: Demos for the groovy programming language
 
-project website: https://veltzer.github.io/demos-lang-groovy
+project website: <https://veltzer.github.io/demos-lang-groovy>
 
 author: Mark Veltzer
 

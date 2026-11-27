@@ -7,6 +7,8 @@ If any key is common to the two maps but has different values
 in the two maps, raise an exception
 
 Example:
+
+```groovy
 Map m1=[
     'Paris':'France',
     'Jerusalem':'Israel',
@@ -17,7 +19,12 @@ Map m2=[
     'Moscow':'Russia',
 ]
 m=common(m1, m2)
+```
+
 m should now be:
+
+```groovy
 [
     'Paris':'France',
 ]
+```
